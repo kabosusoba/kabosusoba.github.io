@@ -1,6 +1,5 @@
-## kabosusobaのサイト
-- [blog](http://kabosusoba.hatenablog.com)
-- [twitter](https://twitter.com/kabosusoba)
-- [GitHub](https://github.com/kabosusoba)
-- [Qiita](https://qiita.com/kabosusoba)
-- [mail(kabosusoba@gmail.com)](mailto:kabosusoba@gmail.com)
+## kabosu3dのサイト
+- [blog](https://kabosu3d.hatenablog.com/)
+- [twitter](https://twitter.com/kabosu3d)
+- [GitHub](https://github.com/kabosu3d)
+- [Qiita](https://qiita.com/kabosu3d)
